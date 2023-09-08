@@ -1,7 +1,4 @@
-/* This Program is Writtten By____"MUHAMMAD ANAS RAMZAN"____"2020-MC-5"____SECTION-A____anasramzan417@gmail.com____ */
-// This Program is A Semeter Project Of Computer Programing_1.
-// Submitted To:
-//               Sir Shujat Ali.
+/* This Program is Writtten By____"MUHAMMAD ANAS RAMZAN"____anasramzan417@gmail.com____ */
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 // This Program Manage The Student Academic Rocords As well As Student's Details Like Name/Adress etc.
 /////////////////////////////////////////////////////////////////////////////////////////////////////
